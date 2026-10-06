@@ -16,10 +16,10 @@ Personal portfolio website for Nazmus Sakib.
 
 Put these files into the indicated locations:
 
-- `assets/profile.jpg` — your profile photo
-- `assets/cv.pdf` — your CV
-- `assets/research/paper-1.pdf`, `paper-2.pdf` — research papers
-- `assets/certificates/certificate-1.jpg` etc. — certificates
+- `assets/profile.jpg` profile photo
+- `assets/cv.pdf` CV
+- `assets/research/paper-1.pdf`, `paper-2.pdf` research papers
+- `assets/certificates/certificate-1.jpg` etc. certificates
 
 Then edit `index.html` to replace placeholder publication information and your email.
 
