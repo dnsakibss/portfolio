@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project | Nazmus Sakib Sami</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="nav-wrap">
+    <nav class="nav container">
+      <a class="brand" href="index.html#home">NS<span>.</span></a>
+      <button class="menu-btn" aria-label="Open menu">☰</button>
+      <div class="nav-links">
+        <a href="index.html#about">About</a>
+        <a href="index.html#research">Research</a>
+        <a href="index.html#projects">Projects</a>
+        <a href="index.html#skills">Skills</a>
+        <a href="index.html#education">Education</a>
+        <a href="index.html#certificates">Certificates</a>
+        <a href="index.html#contact">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="container narrow pd" id="pd"></main>
+
+  <footer>
+    <div class="container footer-inner">
+      <span>© <span id="year"></span> Nazmus Sakib</span>
+      <span>Built with HTML, CSS & JavaScript</span>
+    </div>
+  </footer>
+
+  <script src="projects-data.js"></script>
+  <script src="script.js"></script>
+  <script>
+    (function () {
+      const el = document.getElementById('pd');
+      const id = new URLSearchParams(location.search).get('id');
+      const i = PROJECTS.findIndex(p => p.id === id);
+      const esc = s => { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; };
+      if (i < 0) { el.innerHTML = '<a class="pd-back" href="index.html#projects">← All projects</a><h1>Project not found</h1>'; return; }
+      const p = PROJECTS[i], prev = PROJECTS[i - 1], next = PROJECTS[i + 1];
+      const base = 'assets/projects/' + p.id + '/';
+      document.title = p.title + ' | Nazmus Sakib Sami';
+      el.innerHTML =
+        '<a class="pd-back" href="index.html#projects">← All projects</a>' +
+        '<img class="pd-hero' + (p.fit === 'contain' ? ' contain' : '') + '" src="' + base + p.cover + '" alt="' + esc(p.title) + '" onerror="this.remove()">' +
+        '<p class="project-type" style="margin-top:28px">' + esc(p.type) + '</p><h1 style="margin-top:6px">' + esc(p.title) + '</h1>' +
+        '<div class="tags">' + p.tags.map(t => '<span>' + esc(t) + '</span>').join('') + '</div>' +
+        '<h2>Overview</h2><p>' + esc(p.overview) + '</p>' +
+        '<h2>Highlights</h2><ul>' + p.highlights.map(h => '<li>' + esc(h) + '</li>').join('') + '</ul>' +
+        (p.gallery.length ? '<h2>Gallery</h2><div class="pd-gallery">' + p.gallery.map(g =>
+          '<figure><img loading="lazy" tabindex="0" src="' + base + g.src + '" alt="' + esc(g.caption) + '" onerror="this.closest(\'figure\').remove()"><figcaption>' + esc(g.caption) + '</figcaption></figure>').join('') + '</div>' : '') +
+        '<div class="pd-actions"><a class="btn primary" href="' + p.github + '" target="_blank" rel="noopener">View on GitHub ↗</a><a class="btn secondary" href="index.html#projects">All projects</a></div>' +
+        '<nav class="pd-nav"><span>' + (prev ? '<a href="?id=' + prev.id + '">← ' + esc(prev.title) + '</a>' : '') + '</span><span>' + (next ? '<a href="?id=' + next.id + '">' + esc(next.title) + ' →</a>' : '') + '</span></nav>';
+      el.querySelectorAll('.pd-gallery img').forEach(img => {
+        const open = () => openLightbox(img.src, img.alt);
+        img.addEventListener('click', open);
+        img.addEventListener('keydown', e => { if (e.key === 'Enter') open(); });
+      });
+    })();
+  </script>
+</body>
+</html>

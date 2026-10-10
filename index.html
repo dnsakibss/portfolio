@@ -104,76 +104,7 @@
         <h2 class="section-title">Featured Projects</h2>
         <p class="section-subtitle">Selected work from my GitHub, organized by technical area.</p>
 
-        <div class="project-group">
-          <h3 class="group-title">AI / Machine Learning</h3>
-          <div class="project-grid">
-            <article class="project-card large">
-              <span class="project-number">01</span>
-              <div>
-                <p class="project-type">Embedded AI / ML</p>
-                <h3>Wearable Fatigue Detection</h3>
-                <p>Fatigue-detection prototype combining ESP32 sensor acquisition, ECG/PPG features and machine-learning evaluation.</p>
-                <div class="tags"><span>Python</span><span>ESP32</span><span>ML</span><span>ECG</span><span>PPG</span></div>
-                <a href="https://github.com/dnsakibss/wearable-fatigue-detection" target="_blank" rel="noopener">View on GitHub ↗</a>
-              </div>
-            </article>
-          </div>
-        </div>
-
-        <div class="project-group">
-          <h3 class="group-title">Software Engineering</h3>
-          <div class="project-grid">
-            <article class="project-card">
-              <span class="project-number">02</span>
-              <p class="project-type">C# / Desktop</p>
-              <h3>CivicLens 2.0</h3>
-              <p>A civic complaint and news-oriented application built with C# and SQL Server.</p>
-              <div class="tags"><span>C#</span><span>WinForms</span><span>SQL Server</span></div>
-              <a href="https://github.com/dnsakibss/CivicLens2.0" target="_blank" rel="noopener">View on GitHub ↗</a>
-            </article>
-
-            <article class="project-card">
-              <span class="project-number">03</span>
-              <p class="project-type">Web Development</p>
-              <h3>Library Management System</h3>
-              <p>Web-based library management project developed as part of coursework.</p>
-              <div class="tags"><span>PHP</span><span>Web</span></div>
-              <a href="https://github.com/dnsakibss/LIBRARY-MANAGEMENT-SYSTEM-Web_Tech_Project" target="_blank" rel="noopener">View on GitHub ↗</a>
-            </article>
-          </div>
-        </div>
-
-        <div class="project-group">
-          <h3 class="group-title">Graphics & Other Systems</h3>
-          <div class="project-grid">
-            <article class="project-card">
-              <span class="project-number">04</span>
-              <p class="project-type">Computer Graphics</p>
-              <h3>4-Scene Transportation Environment</h3>
-              <p>Multi-scene transportation environment implemented for computer graphics coursework.</p>
-              <div class="tags"><span>C++</span><span>OpenGL</span></div>
-              <a href="https://github.com/dnsakibss/4_SCENE_OF_TRANSPORTATION_ENVIRONMENT_COMPUTER_GRAPHICS" target="_blank" rel="noopener">View on GitHub ↗</a>
-            </article>
-
-            <article class="project-card">
-              <span class="project-number">05</span>
-              <p class="project-type">Java</p>
-              <h3>Hotel Management System</h3>
-              <p>Desktop/application project demonstrating object-oriented software development.</p>
-              <div class="tags"><span>Java</span><span>OOP</span></div>
-              <a href="https://github.com/dnsakibss/HOTEL-MANAGEMENT-SYSTEM" target="_blank" rel="noopener">View on GitHub ↗</a>
-            </article>
-
-            <article class="project-card">
-              <span class="project-number">06</span>
-              <p class="project-type">Software Development</p>
-              <h3>Project Simulator</h3>
-              <p>Early software project exploring development workflow and project setup.</p>
-              <div class="tags"><span>Software</span></div>
-              <a href="https://github.com/dnsakibss/Project-Simulator" target="_blank" rel="noopener">View on GitHub ↗</a>
-            </article>
-          </div>
-        </div>
+        <div id="projects-root"></div>
 
         <div class="center"><a class="btn secondary" href="https://github.com/dnsakibss?tab=repositories" target="_blank" rel="noopener">View All GitHub Projects ↗</a></div>
       </div>
@@ -214,10 +145,10 @@
         <h2 class="section-title">Certificates & Achievements</h2>
         <p class="section-subtitle">A visual archive of research, conferences, workshops and technical achievements.</p>
         <div class="certificate-grid">
-          <a class="certificate-card" href="assets/certificates/certificate-1.jpg" target="_blank"><div class="cert-placeholder">CERTIFICATE<br>01</div><strong>Research / Conference</strong><span>Open certificate ↗</span></a>
-          <a class="certificate-card" href="assets/certificates/certificate-2.jpg" target="_blank"><div class="cert-placeholder">CERTIFICATE<br>02</div><strong>Technical / Workshop</strong><span>Open certificate ↗</span></a>
-          <a class="certificate-card" href="assets/certificates/certificate-3.jpg" target="_blank"><div class="cert-placeholder">CERTIFICATE<br>03</div><strong>Achievement</strong><span>Open certificate ↗</span></a>
-          <a class="certificate-card" href="assets/certificates/certificate-4.jpg" target="_blank"><div class="cert-placeholder">CERTIFICATE<br>04</div><strong>Conference / Seminar</strong><span>Open certificate ↗</span></a>
+          <a class="certificate-card" href="assets/certificates/certificate-01.jpg" target="_blank" rel="noopener" data-lightbox><div class="cert-thumb"><img src="assets/certificates/certificate-01.jpg" alt="Research / Conference certificate" loading="lazy" onerror="this.remove()"><div class="cert-placeholder">CERTIFICATE<br>01</div></div><strong>Research / Conference</strong><span>Open certificate ↗</span></a>
+          <a class="certificate-card" href="assets/certificates/certificate-02.jpg" target="_blank" rel="noopener" data-lightbox><div class="cert-thumb"><img src="assets/certificates/certificate-02.jpg" alt="Technical / Workshop certificate" loading="lazy" onerror="this.remove()"><div class="cert-placeholder">CERTIFICATE<br>02</div></div><strong>Technical / Workshop</strong><span>Open certificate ↗</span></a>
+          <a class="certificate-card" href="assets/certificates/certificate-03.jpg" target="_blank" rel="noopener" data-lightbox><div class="cert-thumb"><img src="assets/certificates/certificate-03.jpg" alt="Achievement certificate" loading="lazy" onerror="this.remove()"><div class="cert-placeholder">CERTIFICATE<br>03</div></div><strong>Achievement</strong><span>Open certificate ↗</span></a>
+          <a class="certificate-card" href="assets/certificates/certificate-04.jpg" target="_blank" rel="noopener" data-lightbox><div class="cert-thumb"><img src="assets/certificates/certificate-04.jpg" alt="Conference / Seminar certificate" loading="lazy" onerror="this.remove()"><div class="cert-placeholder">CERTIFICATE<br>04</div></div><strong>Conference / Seminar</strong><span>Open certificate ↗</span></a>
         </div>
       </div>
     </section>
@@ -246,6 +177,7 @@
     </div>
   </footer>
 
+  <script src="projects-data.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

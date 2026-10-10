@@ -32,3 +32,9 @@ The featured project links are already connected to your GitHub repositories:
 - Library Management System
 - Hotel Management System
 - Project Simulator
+
+## Project pages
+
+- Edit `projects-data.js` to change project text, tags or images (one entry per project).
+- Images go in `assets/projects/<project-id>/`. `hotel-management-system/cover.png` is still missing: save a screenshot there.
+- Certificates: add `assets/certificates/certificate-01.jpg` ... `certificate-04.jpg`; the placeholders are replaced automatically and clicking opens a larger view.
