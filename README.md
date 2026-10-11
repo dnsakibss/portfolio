@@ -26,6 +26,7 @@ Then edit `index.html` to replace placeholder publication information and your e
 ## Projects
 
 The featured project links are already connected to your GitHub repositories:
+- CivicLens
 - CivicLens2.0
 - Wearable Fatigue Detection
 - 4-Scene Transportation Environment

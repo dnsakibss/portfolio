@@ -21,6 +21,22 @@ window.PROJECTS = [
     ]
   },
   {
+    id: "civiclens", group: "Software Engineering", type: "C# / Desktop",
+    title: "CivicLens",
+    summary: "Multimedia complaint management desktop app for citizens and authorities, built with C# WinForms and SQL Server.",
+    tags: ["C#", "WinForms", "SQL Server", ".NET Framework"],
+    github: "https://github.com/dnsakibss/CivicLens",
+    cover: "overview.svg",
+    overview: "Version 1 of CivicLens, my first C# project, built with a teammate. Citizens report civic issues with photos and videos, moderators assign them to Police officers or Journalists, and each role gets its own dashboard. Every status change is saved in a history table, so a complaint can be followed from submission to resolution. An improved version is available as CivicLens 2.0.",
+    highlights: [
+      "Five roles (Citizen, Moderator, Police, Journalist, Admin) with role-based dashboards",
+      "Complaints with multiple images and videos, priority levels and a District, City, Area location picker",
+      "Moderator assignment runs in a single SQL transaction and records the change in the status history",
+      "Admin approval of new accounts, user, category and location management"
+    ],
+    gallery: [{ src: "overview.svg", caption: "CivicLens v1 overview" }]
+  },
+  {
     id: "civiclens-2", group: "Software Engineering", type: "C# / Desktop",
     title: "CivicLens 2.0",
     summary: "Civic complaint management and community news platform built with C# WinForms and SQL Server.",
