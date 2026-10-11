@@ -17,7 +17,10 @@ window.PROJECTS = [
     ],
     gallery: [
       { src: "workflow.png", caption: "Sensing, alert and logging workflow" },
-      { src: "system-architecture.svg", caption: "System architecture" }
+      { src: "system-architecture.svg", caption: "System architecture" },
+      { src: "circuit-diagram.png", caption: "Circuit diagram: sensors, indicators, controls and data pipeline" },
+      { src: "hardware.jpg", caption: "Prototype hardware with labelled components" },
+      { src: "session-timeline.png", caption: "Sensor streams over the 35-minute session (red = fatigue)" }
     ]
   },
   {
