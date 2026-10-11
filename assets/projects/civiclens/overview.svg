@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" width="1200" height="780" role="img" aria-label="CivicLens v1 overview: login window, role-based dashboard for Citizen, Moderator, Police, Journalist and Admin, the submit complaint form, the complaint status lifecycle and the SQL Server tables." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0MGJmOWEzMS00NGVjLTQ1YzAtYmYyOC0wNjBlYjEzMDliZDMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLSvw6Eecl+vIlKevSTpBnIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplOWYzMmIxMS1hMGJlLTRiYjktOGU1MS1lYzI1M2IxY2Y0NTFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNog1ETi27ZshdIRtv0WKJotwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggWwzijO1J/XSpLi7/VxuAPAu3qQWbfwfDiyuwgzgK5aWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAIigDzcTTrxrjpL8dsQScsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYICwvXsepsYch5F8Miz4jN5B0KTtA52ZElkWeOHOqlwmSZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQF1Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQwYmY5YTMxLTQ0ZWMtNDVjMC1iZjI4LTA2MGViMTMwOWJkMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNjNGI4Y2JmLWJmNTMtNGUzZS1iZWFmLWJlNjg2ODBkMDVjNnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBbDOKM7Un9dKkuLv9XG4A8C7epBZt/B8OLK7CDOArlpaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgguRCWj3P7WBxekPdqDwl5XfAWPbm5AJ6jmtwawHi4KFmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggcPIa5L1XCuWxiJxdKlyuuRBuWxUkdPhMYM9EpP949ZR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJFfl1ay2uJOn7cK5k3fcKxYKGPcA0xlRpe7wuODRJxxmUDo8wPhZ5oju8s/wgj1oVDZBYshGYIVEjxQzjArNwU=</c2pa:manifest></metadata>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f8ff"/><stop offset="1" stop-color="#dbe9fb"/></linearGradient><clipPath id="rr"><rect width="1200" height="780" rx="18"/></clipPath></defs>
+<g clip-path="url(#rr)"><rect width="1200" height="780" fill="url(#bg)"/>
+<rect width="1200" height="6" fill="#1976d2"/>
+<text x="30" y="44" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#203864" text-anchor="start" >CivicLens</text>
+<text x="168" y="44" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="normal" fill="#6c757d" text-anchor="start" >Multimedia complaint management for citizens and authorities (C# WinForms + SQL Server)</text>
+<rect x="34" y="76" width="250" height="330" rx="8" fill="#0b2a55" opacity="0.14"/>
+<rect x="30" y="70" width="250" height="330" rx="8" fill="#fff" stroke="#b7cbe6"/>
+<path d="M30 98 V78 a8 8 0 0 1 8 -8 H272 a8 8 0 0 1 8 8 V98 Z" fill="#e3ecf8"/>
+<text x="42" y="89" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#203864" text-anchor="start" >CivicLens_Login</text>
+<circle cx="264" cy="84" r="4.5" fill="#ffbd2e"/>
+<circle cx="248" cy="84" r="4.5" fill="#28c840"/>
+<circle cx="232" cy="84" r="4.5" fill="#ff5f57"/>
+<rect x="30" y="98" width="250" height="46" fill="#1976d2"/>
+<text x="155" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#fff" text-anchor="middle" >CivicLens</text>
+<text x="155" y="166" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#6c757d" text-anchor="middle" >Multimedia Complaint Management</text>
+<text x="50" y="188" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Username</text>
+<rect x="50" y="192" width="210" height="26" rx="4" fill="#fff" stroke="#c4d2e6"/>
+<text x="58" y="209" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >sami_citizen</text>
+<text x="50" y="242" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Password</text>
+<rect x="50" y="246" width="210" height="26" rx="4" fill="#fff" stroke="#c4d2e6"/>
+<circle cx="62" cy="259" r="3.2" fill="#212529"/>
+<circle cx="73" cy="259" r="3.2" fill="#212529"/>
+<circle cx="84" cy="259" r="3.2" fill="#212529"/>
+<circle cx="95" cy="259" r="3.2" fill="#212529"/>
+<circle cx="106" cy="259" r="3.2" fill="#212529"/>
+<circle cx="117" cy="259" r="3.2" fill="#212529"/>
+<circle cx="128" cy="259" r="3.2" fill="#212529"/>
+<circle cx="139" cy="259" r="3.2" fill="#212529"/>
+<rect x="50" y="284" width="12" height="12" rx="2" fill="#fff" stroke="#9db2cf"/>
+<text x="68" y="295" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#212529" text-anchor="start" >Show password</text>
+<rect x="50" y="308" width="210" height="32" rx="5" fill="#1976d2"/>
+<text x="155.0" y="328.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#fff" text-anchor="middle" >Login</text>
+<rect x="50" y="308" width="210" height="32" rx="5" fill="none" stroke="#1976d2" stroke-width="2"><animate attributeName="opacity" values="0;0.9;0" dur="2.4s" repeatCount="indefinite"/><animate attributeName="stroke-width" values="2;7" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="50" y="362" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#1976d2" text-anchor="start" >Forgot password?</text>
+<text x="50" y="382" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#1976d2" text-anchor="start" >Create a new account (Sign up)</text>
+<rect x="304" y="76" width="500" height="330" rx="8" fill="#0b2a55" opacity="0.14"/>
+<rect x="300" y="70" width="500" height="330" rx="8" fill="#fff" stroke="#b7cbe6"/>
+<path d="M300 98 V78 a8 8 0 0 1 8 -8 H792 a8 8 0 0 1 8 8 V98 Z" fill="#e3ecf8"/>
+<text x="312" y="89" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#203864" text-anchor="start" >CivicLens - Dashboard</text>
+<circle cx="784" cy="84" r="4.5" fill="#ffbd2e"/>
+<circle cx="768" cy="84" r="4.5" fill="#28c840"/>
+<circle cx="752" cy="84" r="4.5" fill="#ff5f57"/>
+<rect x="300" y="98" width="500" height="58" fill="#ebf1fa"/>
+<text x="318" y="134" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#203864" text-anchor="start" >CivicLens</text>
+<rect x="316" y="172" width="468" height="52" rx="6" fill="#fff" stroke="#c4d2e6"/>
+<text x="326" y="170" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Shared</text>
+<rect x="328" y="184" width="110" height="28" rx="5" fill="#3498db"/>
+<text x="383.0" y="202.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >View Profile</text>
+<rect x="446" y="184" width="110" height="28" rx="5" fill="#3498db"/>
+<text x="501.0" y="202.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Edit Profile</text>
+<rect x="662" y="184" width="110" height="28" rx="5" fill="#e74c3c"/>
+<text x="717.0" y="202.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Logout</text>
+<rect x="316" y="238" width="90" height="24" rx="12" fill="#fff" stroke="#b7cbe6"/>
+<text x="361.0" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Citizen</text>
+<rect x="412" y="238" width="90" height="24" rx="12" fill="#fff" stroke="#b7cbe6"/>
+<text x="457.0" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Moderator</text>
+<rect x="508" y="238" width="90" height="24" rx="12" fill="#fff" stroke="#b7cbe6"/>
+<text x="553.0" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Police</text>
+<rect x="604" y="238" width="90" height="24" rx="12" fill="#fff" stroke="#b7cbe6"/>
+<text x="649.0" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Journalist</text>
+<rect x="700" y="238" width="90" height="24" rx="12" fill="#fff" stroke="#b7cbe6"/>
+<text x="745.0" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Admin</text>
+<g opacity="1"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.190;0.200;1" dur="15s" repeatCount="indefinite"/>
+<rect x="316" y="238" width="90" height="24" rx="12" fill="#1976d2"/>
+<text x="361.0" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Citizen</text>
+<text x="782" y="122" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#212529" text-anchor="end" >Welcome, Sami</text>
+<text x="782" y="142" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#6c757d" text-anchor="end" font-style="italic">Role: Citizen</text>
+<rect x="316" y="276" width="468" height="118" rx="6" fill="#fff" stroke="#c4d2e6"/>
+<text x="326" y="274" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Citizen</text>
+<text x="328" y="300" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >Report an issue and follow it to resolution.</text>
+<rect x="328" y="314" width="136" height="28" rx="5" fill="#3498db"/>
+<text x="396.0" y="332.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Submit Complaint</text>
+<rect x="472" y="314" width="115" height="28" rx="5" fill="#fff" stroke="#9db2cf"/>
+<text x="529.5" y="332.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="middle" >My Complaints</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.190;0.200;0.390;0.400;1" dur="15s" repeatCount="indefinite"/>
+<rect x="412" y="238" width="90" height="24" rx="12" fill="#1976d2"/>
+<text x="457.0" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Moderator</text>
+<text x="782" y="122" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#212529" text-anchor="end" >Welcome, Sami</text>
+<text x="782" y="142" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#6c757d" text-anchor="end" font-style="italic">Role: Moderator</text>
+<rect x="316" y="276" width="468" height="118" rx="6" fill="#fff" stroke="#c4d2e6"/>
+<text x="326" y="274" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Moderator</text>
+<text x="328" y="300" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >See every complaint and assign it to Police or a Journalist.</text>
+<rect x="328" y="314" width="129" height="28" rx="5" fill="#3498db"/>
+<text x="392.5" y="332.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Complaint Queue</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.390;0.400;0.590;0.600;1" dur="15s" repeatCount="indefinite"/>
+<rect x="508" y="238" width="90" height="24" rx="12" fill="#1976d2"/>
+<text x="553.0" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Police</text>
+<text x="782" y="122" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#212529" text-anchor="end" >Welcome, Sami</text>
+<text x="782" y="142" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#6c757d" text-anchor="end" font-style="italic">Role: Police</text>
+<rect x="316" y="276" width="468" height="118" rx="6" fill="#fff" stroke="#c4d2e6"/>
+<text x="326" y="274" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Police</text>
+<text x="328" y="300" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >Work your assigned complaints and update their status.</text>
+<rect x="328" y="314" width="157" height="28" rx="5" fill="#3498db"/>
+<text x="406.5" y="332.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Assigned Complaints</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.590;0.600;0.790;0.800;1" dur="15s" repeatCount="indefinite"/>
+<rect x="604" y="238" width="90" height="24" rx="12" fill="#1976d2"/>
+<text x="649.0" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Journalist</text>
+<text x="782" y="122" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#212529" text-anchor="end" >Welcome, Sami</text>
+<text x="782" y="142" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#6c757d" text-anchor="end" font-style="italic">Role: Journalist</text>
+<rect x="316" y="276" width="468" height="118" rx="6" fill="#fff" stroke="#c4d2e6"/>
+<text x="326" y="274" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Journalist</text>
+<text x="328" y="300" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >Review assigned complaints and mark them Covered.</text>
+<rect x="328" y="314" width="80" height="28" rx="5" fill="#fff" stroke="#9db2cf"/>
+<text x="368.0" y="332.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="middle" >Newsfeed</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.790;0.800;1" dur="15s" repeatCount="indefinite"/>
+<rect x="700" y="238" width="90" height="24" rx="12" fill="#1976d2"/>
+<text x="745.0" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Admin</text>
+<text x="782" y="122" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#212529" text-anchor="end" >Welcome, Sami</text>
+<text x="782" y="142" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#6c757d" text-anchor="end" font-style="italic">Role: Admin</text>
+<rect x="316" y="276" width="468" height="118" rx="6" fill="#fff" stroke="#c4d2e6"/>
+<text x="326" y="274" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Admin</text>
+<text x="328" y="300" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >Approve accounts, manage users, categories and locations.</text>
+<rect x="328" y="314" width="122" height="28" rx="5" fill="#3498db"/>
+<text x="389.0" y="332.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >User Approvals</text>
+<rect x="458" y="314" width="108" height="28" rx="5" fill="#3498db"/>
+<text x="512.0" y="332.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Manage Users</text>
+<rect x="574" y="314" width="115" height="28" rx="5" fill="#3498db"/>
+<text x="631.5" y="332.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle" >Manage Admins</text>
+<rect x="328" y="348" width="94" height="28" rx="5" fill="#fff" stroke="#9db2cf"/>
+<text x="375.0" y="366.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="middle" >Categories</text>
+<rect x="430" y="348" width="87" height="28" rx="5" fill="#fff" stroke="#9db2cf"/>
+<text x="473.5" y="366.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="middle" >Locations</text>
+</g>
+<rect x="824" y="76" width="350" height="330" rx="8" fill="#0b2a55" opacity="0.14"/>
+<rect x="820" y="70" width="350" height="330" rx="8" fill="#fff" stroke="#b7cbe6"/>
+<path d="M820 98 V78 a8 8 0 0 1 8 -8 H1162 a8 8 0 0 1 8 8 V98 Z" fill="#e3ecf8"/>
+<text x="832" y="89" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#203864" text-anchor="start" >Submit Complaint</text>
+<circle cx="1154" cy="84" r="4.5" fill="#ffbd2e"/>
+<circle cx="1138" cy="84" r="4.5" fill="#28c840"/>
+<circle cx="1122" cy="84" r="4.5" fill="#ff5f57"/>
+<text x="838" y="124" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Title</text>
+<rect x="838" y="128" width="314" height="26" rx="4" fill="#fff" stroke="#c4d2e6"/>
+<text x="846" y="145" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >Broken street light near market</text>
+<text x="838" y="174" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Category</text>
+<rect x="838" y="178" width="152" height="26" rx="4" fill="#fff" stroke="#c4d2e6"/>
+<text x="846" y="195" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >Infrastructure</text>
+<path d="M974 188 l5 6 l5 -6 Z" fill="#6c757d"/>
+<text x="1000" y="174" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Priority</text>
+<rect x="1000" y="178" width="152" height="26" rx="4" fill="#fff" stroke="#c4d2e6"/>
+<text x="1008" y="195" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >Normal</text>
+<path d="M1136 188 l5 6 l5 -6 Z" fill="#6c757d"/>
+<text x="838" y="224" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >District</text>
+<rect x="838" y="228" width="98" height="26" rx="4" fill="#fff" stroke="#c4d2e6"/>
+<text x="846" y="245" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >Dhaka</text>
+<path d="M920 238 l5 6 l5 -6 Z" fill="#6c757d"/>
+<text x="946" y="224" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >City</text>
+<rect x="946" y="228" width="98" height="26" rx="4" fill="#fff" stroke="#c4d2e6"/>
+<text x="954" y="245" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >Dhaka</text>
+<path d="M1028 238 l5 6 l5 -6 Z" fill="#6c757d"/>
+<text x="1054" y="224" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Area</text>
+<rect x="1054" y="228" width="98" height="26" rx="4" fill="#fff" stroke="#c4d2e6"/>
+<text x="1062" y="245" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#212529" text-anchor="start" >Mirpur</text>
+<path d="M1136 238 l5 6 l5 -6 Z" fill="#6c757d"/>
+<text x="838" y="274" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#6c757d" text-anchor="start" >Description</text>
+<rect x="838" y="278" width="314" height="38" rx="4" fill="#fff" stroke="#c4d2e6"/>
+<text x="846" y="295" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#212529" text-anchor="start" >The light has been off for a week and the</text>
+<text x="846" y="310" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#212529" text-anchor="start" >road is unsafe after dark.</text>
+<rect x="838" y="324" width="200" height="56" rx="4" fill="#f6f9fe" stroke="#c4d2e6"/>
+<text x="846" y="341" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#212529" text-anchor="start" >photo_1.jpg   (primary)</text>
+<text x="846" y="358" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" fill="#212529" text-anchor="start" >clip_2.mp4</text>
+<text x="846" y="374" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="normal" fill="#6c757d" text-anchor="start" >Images and videos</text>
+<rect x="1048" y="324" width="104" height="26" rx="5" fill="#3498db"/>
+<text x="1100.0" y="341.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#fff" text-anchor="middle" >Add media</text>
+<rect x="1048" y="354" width="104" height="28" rx="5" fill="#1976d2"/>
+<text x="1100.0" y="372.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#fff" text-anchor="middle" >Submit</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.6;0.9;1" dur="7s" repeatCount="indefinite"/><rect x="850" y="338" width="290" height="40" rx="8" fill="#1e8e3e"/><text x="995" y="363" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">Complaint submitted. Status: New</text></g>
+<text x="30" y="446" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#203864" text-anchor="start" >Complaint lifecycle</text>
+<text x="238" y="446" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="normal" fill="#6c757d" text-anchor="start" >Every change is written to StatusHistory with the note, the person and the time.</text>
+<text x="40" y="480" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="start" >Citizen submits</text>
+<line x1="174" y1="511.0" x2="214" y2="511.0" stroke="#8aa4c8" stroke-width="2"/><path d="M207 506.0 L215 511.0 L207 516.0" fill="none" stroke="#8aa4c8" stroke-width="2"/>
+<line x1="354" y1="511.0" x2="394" y2="511.0" stroke="#8aa4c8" stroke-width="2"/><path d="M387 506.0 L395 511.0 L387 516.0" fill="none" stroke="#8aa4c8" stroke-width="2"/>
+<line x1="534" y1="511.0" x2="574" y2="511.0" stroke="#8aa4c8" stroke-width="2"/><path d="M567 506.0 L575 511.0 L567 516.0" fill="none" stroke="#8aa4c8" stroke-width="2"/>
+<line x1="714" y1="511.0" x2="754" y2="511.0" stroke="#8aa4c8" stroke-width="2"/><path d="M747 506.0 L755 511.0 L747 516.0" fill="none" stroke="#8aa4c8" stroke-width="2"/>
+<line x1="894" y1="511.0" x2="934" y2="511.0" stroke="#8aa4c8" stroke-width="2"/><path d="M927 506.0 L935 511.0 L927 516.0" fill="none" stroke="#8aa4c8" stroke-width="2"/>
+<text x="195" y="554" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Moderator assigns</text>
+<text x="375" y="554" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Police starts work</text>
+<text x="555" y="554" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Police pauses</text>
+<text x="735" y="554" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Police resolves</text>
+<text x="915" y="554" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Police closes</text>
+<rect x="40" y="490" width="130" height="42" rx="21" fill="#5b8def"/>
+<text x="105.0" y="516.0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" >New</text>
+<rect x="35" y="485" width="140" height="52" rx="26" fill="none" stroke="#5b8def" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.023;0.063;0.133;1" dur="9s" repeatCount="indefinite"/></rect>
+<rect x="220" y="490" width="130" height="42" rx="21" fill="#7a63d9"/>
+<text x="285.0" y="516.0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" >Assigned</text>
+<rect x="215" y="485" width="140" height="52" rx="26" fill="none" stroke="#7a63d9" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.198;0.238;0.308;1" dur="9s" repeatCount="indefinite"/></rect>
+<rect x="400" y="490" width="130" height="42" rx="21" fill="#e08a1e"/>
+<text x="465.0" y="516.0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" >InProgress</text>
+<rect x="395" y="485" width="140" height="52" rx="26" fill="none" stroke="#e08a1e" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.373;0.413;0.483;1" dur="9s" repeatCount="indefinite"/></rect>
+<rect x="580" y="490" width="130" height="42" rx="21" fill="#c98c00"/>
+<text x="645.0" y="516.0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" >OnHold</text>
+<rect x="575" y="485" width="140" height="52" rx="26" fill="none" stroke="#c98c00" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.547;0.587;0.657;1" dur="9s" repeatCount="indefinite"/></rect>
+<rect x="760" y="490" width="130" height="42" rx="21" fill="#1e8e3e"/>
+<text x="825.0" y="516.0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" >Resolved</text>
+<rect x="755" y="485" width="140" height="52" rx="26" fill="none" stroke="#1e8e3e" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.722;0.762;0.832;1" dur="9s" repeatCount="indefinite"/></rect>
+<rect x="940" y="490" width="130" height="42" rx="21" fill="#5f6b7a"/>
+<text x="1005.0" y="516.0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" >Closed</text>
+<rect x="935" y="485" width="140" height="52" rx="26" fill="none" stroke="#5f6b7a" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.897;0.937;0.999;1" dur="9s" repeatCount="indefinite"/></rect>
+<circle r="6" fill="#1976d2"><animateMotion path="M40 511.0 L1070 511.0" dur="9s" repeatCount="indefinite"/></circle>
+<path d="M285.0 566 V586" stroke="#8aa4c8" stroke-width="2" stroke-dasharray="5 4" fill="none"/><path d="M280.0 580 L285.0 588 L290.0 580" fill="none" stroke="#8aa4c8" stroke-width="2"/>
+<rect x="220" y="594" width="130" height="38" rx="19" fill="#0e9aa7"/>
+<text x="285.0" y="618" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#fff" text-anchor="middle" >Covered</text>
+<text x="285.0" y="652" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Journalist marks it</text>
+<path d="M465.0 566 V586" stroke="#8aa4c8" stroke-width="2" stroke-dasharray="5 4" fill="none"/><path d="M460.0 580 L465.0 588 L470.0 580" fill="none" stroke="#8aa4c8" stroke-width="2"/>
+<rect x="400" y="594" width="130" height="38" rx="19" fill="#c0392b"/>
+<text x="465.0" y="618" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#fff" text-anchor="middle" >Rejected</text>
+<text x="465.0" y="652" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="middle" >Police can reject</text>
+<text x="580" y="618" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="start" >Statuses New and Pending are</text>
+<text x="580" y="636" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6c757d" text-anchor="start" >moved to Assigned on assignment.</text>
+<text x="30" y="688" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#203864" text-anchor="start" >SQL Server tables</text>
+<text x="238" y="688" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="normal" fill="#6c757d" text-anchor="start" >ADO.NET on .NET Framework 4.7.2</text>
+<rect x="30" y="704" width="75" height="34" rx="8" fill="#fff" stroke="#b7cbe6"/><rect x="30" y="704" width="6" height="34" rx="3" fill="#1976d2"/>
+<text x="70.5" y="726" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#203864" text-anchor="middle" >Users</text>
+<rect x="115" y="704" width="83" height="34" rx="8" fill="#fff" stroke="#b7cbe6"/><rect x="115" y="704" width="6" height="34" rx="3" fill="#1976d2"/>
+<text x="159.5" y="726" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#203864" text-anchor="middle" >Logins</text>
+<rect x="208" y="704" width="75" height="34" rx="8" fill="#fff" stroke="#b7cbe6"/><rect x="208" y="704" width="6" height="34" rx="3" fill="#1976d2"/>
+<text x="248.5" y="726" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#203864" text-anchor="middle" >Roles</text>
+<rect x="293" y="704" width="116" height="34" rx="8" fill="#fff" stroke="#b7cbe6"/><rect x="293" y="704" width="6" height="34" rx="3" fill="#1976d2"/>
+<text x="354.0" y="726" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#203864" text-anchor="middle" >Complaints</text>
+<rect x="419" y="704" width="116" height="34" rx="8" fill="#fff" stroke="#b7cbe6"/><rect x="419" y="704" width="6" height="34" rx="3" fill="#1976d2"/>
+<text x="480.0" y="726" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#203864" text-anchor="middle" >Categories</text>
+<rect x="545" y="704" width="107" height="34" rx="8" fill="#fff" stroke="#b7cbe6"/><rect x="545" y="704" width="6" height="34" rx="3" fill="#1976d2"/>
+<text x="601.5" y="726" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#203864" text-anchor="middle" >Locations</text>
+<rect x="662" y="704" width="124" height="34" rx="8" fill="#fff" stroke="#b7cbe6"/><rect x="662" y="704" width="6" height="34" rx="3" fill="#1976d2"/>
+<text x="727.0" y="726" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#203864" text-anchor="middle" >Assignments</text>
+<rect x="796" y="704" width="140" height="34" rx="8" fill="#fff" stroke="#b7cbe6"/><rect x="796" y="704" width="6" height="34" rx="3" fill="#1976d2"/>
+<text x="869.0" y="726" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#203864" text-anchor="middle" >StatusHistory</text>
+<rect x="946" y="704" width="148" height="34" rx="8" fill="#fff" stroke="#b7cbe6"/><rect x="946" y="704" width="6" height="34" rx="3" fill="#1976d2"/>
+<text x="1023.0" y="726" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#203864" text-anchor="middle" >ComplaintMedia</text>
+</g></svg>
