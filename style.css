@@ -80,6 +80,31 @@ footer{background:#020617;color:#94a3b8;font-size:.78rem}.footer-inner{padding:2
 .pd-gallery img{width:100%;aspect-ratio:3/2;object-fit:contain;background:#f8fafc;border-radius:10px;display:block;cursor:zoom-in}
 .pd-gallery figcaption{font-size:.8rem;color:var(--muted);margin-top:8px}
 .pd-nav{display:flex;justify-content:space-between;gap:20px;margin-top:56px;padding-top:22px;border-top:1px solid var(--line);font-weight:700;font-size:.9rem;color:var(--blue)}
+.timeline-item {position: relative;}
+
+
+.timeline-item:not(:last-child)::before {
+  content: "";
+  position: absolute;
+  left: 6px;        
+  top: 42px;        
+  height: 100%;     
+  width: 2px;
+  background: #2563eb;
+}
+
+
+.timeline-dot {
+  position: relative;
+  z-index: 1;
+}
+
+
+.timeline-dot.hollow {
+  background: #fff;
+  border: 2px solid #2563eb;
+  box-sizing: border-box;
+}
 
 .lightbox{position:fixed;inset:0;z-index:100;background:rgba(2,6,23,.88);display:grid;place-items:center;padding:24px;cursor:zoom-out}
 .lightbox img{max-width:min(1200px,100%);max-height:100%;border-radius:10px;background:#fff}
