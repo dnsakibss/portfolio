@@ -20,7 +20,7 @@
     const root = document.documentElement;
     const next = root.dataset.theme === 'dark' ? 'light' : 'dark';
     if (next === 'dark') root.dataset.theme = 'dark'; else delete root.dataset.theme;
-    try { localStorage.setItem('theme', next); } catch (e) {}
+    try { localStorage.setItem('portfolio-theme', next); } catch (e) {}
   });
 
   /* ---------- Mobile menu ---------- */
