@@ -39,3 +39,15 @@ The featured project links are already connected to your GitHub repositories:
 - Edit `projects-data.js` to change project text, tags or images (one entry per project).
 - Images go in `assets/projects/<project-id>/`. `hotel-management-system/cover.png` is still missing: save a screenshot there.
 - Certificates: add `assets/certificates/certificate-01.jpg` ... `certificate-04.jpg`; the placeholders are replaced automatically and clicking opens a larger view.
+
+## Interactive features
+
+All plain HTML/CSS/JS, no libraries or build step.
+
+- **Light/dark theme** toggle in the nav (remembers the visitor's choice)
+- **Animations:** hero entrance, typing role text, floating blobs, rotating photo ring, scroll-reveal on every section, counters, timeline line that draws in
+- **Projects:** filter buttons are generated from the `group` field in `projects-data.js`; the first project is shown as "Featured"
+- **Skills:** chips that match a project tag become clickable and filter the projects list
+- **Lightbox:** certificates and project galleries open full-screen; browse with ← → keys, arrow buttons or swipe
+- **Extras:** scroll progress bar, active-section nav highlight, back-to-top button, click-to-copy email
+- Motion is turned off automatically for visitors who set "reduce motion" in their OS
